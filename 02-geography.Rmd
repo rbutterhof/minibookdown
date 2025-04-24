@@ -3,10 +3,10 @@
 Blueberries were initially commercially cultivated in New Jersey, but commercial cultivation now spans multiple continents.
 
 ## North America
-New Jersey
-Michigan
-North Carolina
-Florida
+- New Jersey
+- Michigan
+- North Carolina
+- Florida
 
 ## South America
 Check out the story of [Peruvian blueberries](https://www.npr.org/2025/04/04/1242780124/blueberries-asparagus-cocaine-foreign-aid-usaid-war-on-drugs-peru-free-trade) here!
