@@ -1,5 +1,5 @@
 ---
-title: "Demo Textbook"
+title: "Blueberries: A Textbook"
 author: "Robin Butterhof"
 site: bookdown::bookdown_site
 documentclass: book
