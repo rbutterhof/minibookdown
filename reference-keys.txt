@@ -1,4 +1,4 @@
-create-your-open-textbook
+this-is-my-textbook-about-blueberries
 preface
 growing-locations
 north-america
