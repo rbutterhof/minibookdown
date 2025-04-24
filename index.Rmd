@@ -6,6 +6,6 @@ documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
+# This is my textbook about blueberries!
 
-Hello, world!!!
+Blueberries are great. 
